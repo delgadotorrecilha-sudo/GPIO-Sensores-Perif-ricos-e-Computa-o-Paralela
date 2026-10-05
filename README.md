@@ -3,7 +3,7 @@ Introdução a programação em sistemas embarcados de alto nível com GPIO, Sen
 # Luís Carlos Delgado Torrecilha - 15472530
 # Beatriz Fonseca Silva - 15653959
 
-Checkpoint 1 - [checkpoint1.1.py]
+Checkpoint 1 - checkpoint1.1.py
              - [checkpoint1.2.py]
 
 Checkpoint 2 - [checkpoint2.1.py]
