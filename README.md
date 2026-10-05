@@ -4,7 +4,7 @@ Introdução a programação em sistemas embarcados de alto nível com GPIO, Sen
 # Beatriz Fonseca Silva - 15653959
 
 GPIos:
-![GPIos](URL_ou_caminho_da_imagem)
+![GPIos](https://github.com/delgadotorrecilha-sudo/GPIO-Sensores-Perif-ricos-e-Computa-o-Paralela/blob/main/WhatsApp%20Image%202026-10-05%20at%2013.56.13%20(1).jpeg)
 
 
 Checkpoint 1 - checkpoint1.1.py
