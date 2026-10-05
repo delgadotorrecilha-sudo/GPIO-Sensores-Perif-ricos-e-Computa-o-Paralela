@@ -4,10 +4,9 @@ Introdução a programação em sistemas embarcados de alto nível com GPIO, Sen
 # Beatriz Fonseca Silva - 15653959
 
 GPIos:
-WhatsApp Image 2026-10-05 at 13.56.13 (1).jpeg
-![GPIos](./assets/WhatsApp Image 2026-10-05 at 13.56.13 (1).jpeg)
+![GPIos](URL_ou_caminho_da_imagem)
 
-![Esquemático](WhatsApp Image 2026-10-05 at 13.56.13 (1).jpeg)
+
 Checkpoint 1 - checkpoint1.1.py
              - [checkpoint1.2.py]
 
