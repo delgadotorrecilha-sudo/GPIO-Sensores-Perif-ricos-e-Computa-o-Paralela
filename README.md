@@ -26,7 +26,7 @@ Montagem do segundo código:
 ![](https://github.com/delgadotorrecilha-sudo/GPIO-Sensores-Perif-ricos-e-Computa-o-Paralela/blob/main/WhatsApp%20Image%202026-10-05%20at%2013.56.14.jpeg)
  
 
-Checkpoint 3 - [Checkpoint3.py]
+Checkpoint 3 - [https://github.com/delgadotorrecilha-sudo/GPIO-Sensores-Perif-ricos-e-Computa-o-Paralela/blob/main/Checkpoint3.py]
 
 Montagem do Checkpoint 3 :
 
