@@ -1,6 +1,7 @@
 # GPIO-Sensores-Perif-ricos-e-Computa-o-Paralela
 Introdução a programação em sistemas embarcados de alto nível com GPIO, Sensores, Periféricos e Computação Paralela
 Luís Carlos Delgado Torrecilha - 15472530
+
 Beatriz Fonseca Silva - 15653959
 
 GPIos:
@@ -30,4 +31,4 @@ Checkpoint 3 - [https://github.com/delgadotorrecilha-sudo/GPIO-Sensores-Perif-ri
 
 Montagem do Checkpoint 3 :
 
-![]()
+![](https://github.com/delgadotorrecilha-sudo/GPIO-Sensores-Perif-ricos-e-Computa-o-Paralela/blob/main/WhatsApp%20Image%202026-10-05%20at%2013.56.13.jpeg)
